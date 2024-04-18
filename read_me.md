@@ -1,10 +1,9 @@
 10.1
 ![Image Alt text](images/10_1.jpg)
 
-
-
-
-
+10.2
+![Image Alt text](images/10_2(1).jpg)
+![Image Alt text](images/10_1(2).jpg)
 10.3
 
 I used the code zamboni.py (provided in repo) and snow.py (provided in repo) to make the husky move through "snow". Here are some screenshots:
