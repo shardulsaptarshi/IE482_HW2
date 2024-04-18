@@ -37,4 +37,5 @@ Here are some ways we could make the husky move:
 I found it very interesting how the example provided in the tutorial allows real-time interaction between a ROS actionlib server and a web application.
 
 11.2
+I found it interesting to learn how ros parameters are set using roslibjs.
 
