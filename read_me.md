@@ -30,7 +30,11 @@ Here are some ways we could make the husky move:
 3. we could publish twist commands the /cmd_vel using a ROS node
 
 
+
+
+
 11.1
 I found it very interesting how the example provided in the tutorial allows real-time interaction between a ROS actionlib server and a web application.
 
 11.2
+
